@@ -1,0 +1,5 @@
+- ✌🏻 Hi, I’m Alain
+- I recently finished my masters in middle eastern studies and history. To keep my brain working during summer I started to learn web development.
+- Currently I am doing a UDEMY bootcamp on html/css/js. My first goal will be to change my website from wordpress to something self built. 
+- My other interest are photography & videography, degrowth, vanlife and alternative lifestyles, sports & other outdoor activities.
+- you can find more on myself on my website (still on wordpress for now 🙈): https://alainluck.ch
